@@ -1,7 +1,7 @@
 """Provide a service class for the offline help function.
 
 Copyright (c) 2024-2026 Peter Triesberger
-For further information see https://github.com/peter88213/nv_offline_help_en
+For further information see https://github.com/peter88213/nv_offline_help_de
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 import webbrowser

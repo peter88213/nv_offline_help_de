@@ -17,7 +17,7 @@ Please be sure to follow the
 │   └── tools/ 
 │       ├── inliner.py
 │       └── package_builder.py
-└── nv_offline_help_en/
+└── nv_offline_help_de/
     ├── src/
     └── tools/ 
         └── build.py

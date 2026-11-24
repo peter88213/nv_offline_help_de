@@ -1,8 +1,8 @@
-"""English offline help pages for novelibre.
+"""German offline help pages for novelibre.
 
 Requires Python 3.7+
 Copyright (c) 2024-2026 Peter Triesberger
-For further information see https://github.com/peter88213/nv_offline_help_en
+For further information see https://github.com/peter88213/nv_offline_help_de
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 This program is free software: you can redistribute it and/or modify
@@ -26,8 +26,8 @@ class Plugin(PluginBase):
     """plugin class."""
     VERSION = '@release'
     API_VERSION = '5.63'
-    DESCRIPTION = 'English offline help pages'
-    URL = 'https://github.com/peter88213/nv_offline_help_en'
+    DESCRIPTION = 'German offline help pages'
+    URL = 'https://github.com/peter88213/nv_offline_help_de'
 
     def install(self, model, view, controller):
         """Install the plugin at runtime.

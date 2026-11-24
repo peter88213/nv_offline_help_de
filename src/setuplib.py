@@ -1,9 +1,9 @@
-"""nv_offline_help_en installer library module. 
+"""nv_offline_help_de installer library module. 
 
 Version @release
 
 Copyright (c) 2024-2026 Peter Triesberger
-For further information see https://github.com/peter88213/nv_offline_help_en
+For further information see https://github.com/peter88213/nv_offline_help_de
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 import os
@@ -13,7 +13,7 @@ from shutil import copytree
 import sys
 import zipfile
 
-PLUGIN = 'nv_offline_help_en.py'
+PLUGIN = 'nv_offline_help_de.py'
 VERSION = '@release'
 
 pyz = os.path.dirname(__file__)
